@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm an engineer at Google. Previously I worked at HashiCorp, Chef Software, CustomInk, and some Pittsburgh-based startups.
+I'm a Distinguished Software Engineer at [LinkedIn](https://linkedin.com/in/sethvargo). Previously I worked at Google, HashiCorp, Chef Software, CustomInk, and various startups.
 
-- 💬 Ask me about: Go, Ruby
+- 💬 Ask me about: Terraform, Go, Ruby, Security, SRE, DevOps
 - 😄 Pronouns: he/him
 - 🌍 [Website](https://www.sethvargo.com)
